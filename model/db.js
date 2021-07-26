@@ -13,7 +13,7 @@ const db = {
       {
         id: 3,
         text: "Buy flour",
-        completed: false
+        completed: true
       },
       {
         id: 4,
